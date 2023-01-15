@@ -52,11 +52,28 @@ I also added and connected a runner:
 
 ## Ad 2
 
-I have created those 2 repository in previous task on dockerhub
+Here I chose GitLab Container Registry with 2 different image names in one repository
 
 ## Ad 3
 
-My yml file:
+My yml file for mr repository:
+
+![Screenshot 2023-01-15 at 18 04 03](https://user-images.githubusercontent.com/114099418/212555568-93617b8b-55c9-4ab3-8c49-a45d5f539d34.png)
+
+Pipeline for mr repository:
+
+![Screenshot 2023-01-15 at 19 10 03](https://user-images.githubusercontent.com/114099418/212565255-beb8ee17-b776-4862-a705-59ad36a0bf6a.png)
 
 
+My yml file for main repository:
 
+
+![Screenshot 2023-01-15 at 21 26 27](https://user-images.githubusercontent.com/114099418/212565316-a21c81dc-cfb4-47a7-8939-80b08ab4d059.png)
+
+Pipeline for main repository:
+
+![Screenshot 2023-01-15 at 21 28 49](https://user-images.githubusercontent.com/114099418/212565375-f71caae2-e612-425f-b644-78cea9e6ed29.png)
+
+Here are my Container's Registry:
+
+![Screenshot 2023-01-15 at 21 30 51](https://user-images.githubusercontent.com/114099418/212565549-5965d2a8-e806-477e-b089-c85af7ca291a.png)
