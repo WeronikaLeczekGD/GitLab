@@ -1,11 +1,11 @@
 # GitLab
 
 
-## 1. Create a new empty repository in Gitlab. Use Gitlab instructions to add the code from your forked spring-petclinic repository. Add your Dockerfile.
+## [1. Create a new empty repository in Gitlab. Use Gitlab instructions to add the code from your forked spring-petclinic repository. Add your Dockerfile.](#ad-1)
 
-## 2. Create 2 docker repositories on your own Nexus Repository (Instruction) or https://hub.docker.com/ called “main” and “mr”. Alternatively, you can use GitLab Container Registry with 2 different image names in one repository (see Image naming convention).
+## [2. Create 2 docker repositories on your own Nexus Repository (Instruction) or https://hub.docker.com/ called “main” and “mr”. Alternatively, you can use GitLab Container Registry with 2 different image names in one repository (see Image naming convention).](#ad-2)
 
-## 3. Add .gitlab-ci.yml file and describe the following behavior there:
+## 3. [Add .gitlab-ci.yml file and describe the following behavior there:](#ad-3)
 
 ### The pipeline for a merge request should include the following jobs:
 
